@@ -30,7 +30,7 @@ Beispielsweise könnten das folgende Attribute sein:
     In der Spalte Name eine Beschreibung des Attributes eingeben (z.B. Kontoart).
     Mit der Tabulatortaste in die nächste Spalte springen und den Spaltennamen anpassen (z.B. Kontoart). Die Spalten Feldtyp und Quelle bleiben unverändert.
 
-* **Prozentzahl**: für die Eingabe eines Zinssatzes bei Anlagekonte
+* **Prozentzahl**: für die Eingabe eines Zinssatzes bei Anlagekonten
 
     In den Spalten Name und Spaltenname jeweils die Beschreibung eingeben (z.B. Zinssatz).
 
@@ -48,7 +48,7 @@ Um die Spaltenbeschriftung zu kürzen, benennen wir die Spalte "Fälligkeit – 
 
 In der Übersicht "Konten" unter "Stammdaten" werden neue Konten durch Linksklick auf das Pluszeichen rechts oben im Fenster hinzugefügt.
 
-Durch einen Doppelklick auf ein Feld lassen sich die gewünschten Daten (Kontoart, Bankname, Zinssatz, Anlagebeginn, Fälligkeit) eingeben. Damit eine Restlaufzeit von PP automatisch angezeigt werden kann, muss das Datum im lokaen Format angegeben werden, z.B. DD.MM.JJJJ.
+Durch einen Doppelklick auf ein Feld lassen sich die gewünschten Daten (Kontoart, Bankname, Zinssatz, Anlagebeginn, Fälligkeit) eingeben. Damit eine Restlaufzeit von PP automatisch angezeigt werden kann, muss das Datum im lokalen Format angegeben werden, z.B. DD.MM.JJJJ.
 
 In diesem Beispiel sieht das dann wie folgt aus:
 
@@ -62,4 +62,4 @@ Buchungen können auf diesen Konten über einen Rechtsklick auf das entsprechend
 
 Sofern es sich um ein Depotverrechnungskonto handelt, muss es unter "Stammdaten – Depots" in der Spalte "Referenzkonto" einem Depot noch zugeordnet werden.
 
-Es können mehrere Verrechnungskonten in unterschiedlichen Währungen für dassselbe Depot geführt werden. Dazu unter "Stammdaten - Konten" die entsprechenden Konten anlegen, Kontowährung für jedes Verrechnungskonto auswählen und jedes dieser Konten demselben Depot unter "Stammdaten - Depots" zuordnen.
+Es können mehrere Verrechnungskonten in unterschiedlichen Währungen für dasselbe Depot geführt werden. Dazu unter "Stammdaten - Konten" die entsprechenden Konten anlegen, Kontowährung für jedes Verrechnungskonto auswählen und jedes dieser Konten demselben Depot unter "Stammdaten - Depots" zuordnen.
